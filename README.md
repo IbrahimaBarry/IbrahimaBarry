@@ -14,11 +14,11 @@ Hello! I'm Ibrahima Barry 👨‍💻, a passionate developer with a focus on we
 
 - 📚 **Education**:
   - **Bachelor's in Computer Development**
-  - **Master of Science in Machine Learning**
+  - **Master of Science**
 
 - 💼 **Current Projects**:
   - Developing a **Food Order Platform** 🍔
-  - Working on an **IoT Project** with GPS & GPRS 📡
+  - Working on an **IoT Project** with ESP32, GPS & GPRS 📡
 
 - 🛠️ **Tools & Platforms**:
   - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -27,8 +27,7 @@ Hello! I'm Ibrahima Barry 👨‍💻, a passionate developer with a focus on we
   - ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white)
 
 - 📫 **How to reach me**:
-  - ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white): [your-email@example.com](mailto:your-email@example.com)
-  - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white): [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+  - ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white): [ibarry8639@gmail.com](mailto:ibarry8639@gmail.com)
 
 - ⚡ **Fun Fact**: I am a manga enthusiast 📚 and love watching movies 🎬 in my free time.
 
