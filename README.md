@@ -4,6 +4,7 @@ Hello! I'm Ibrahima Barry 👨‍💻, a passionate developer with a focus on we
 
 - 🖥️ **Tech Stack**: 
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=tyoescript&logoColor=black)
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
   - ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
   - ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
