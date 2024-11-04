@@ -10,6 +10,7 @@ Hello! I'm Ibrahima Barry 👨‍💻, a passionate developer with a focus on we
 - 🛠️ **Frameworks & Libraries**:
   - ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
   - ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+  - ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
   - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
   - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 
