@@ -6,7 +6,6 @@ Hello! I'm Ibrahima Barry 👨‍💻, a passionate developer with a focus on we
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-  - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 - 🛠️ **Frameworks & Libraries**:
   - ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
