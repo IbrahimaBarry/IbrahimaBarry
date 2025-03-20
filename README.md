@@ -10,21 +10,22 @@ Hello! I'm Ibrahima Barry 👨‍💻, a passionate developer with a focus on we
 - 🛠️ **Frameworks & Libraries**:
   - ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
   - ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-  - ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
-  - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
   - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+  - ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-FFFFFF?logo=javascript&logoColor=black)
+  - ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+  - ![prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 - 🌱 **Currently Learning**:
   - ![IoT](https://img.shields.io/badge/IoT-00C7B7?logo=internet-of-things&logoColor=white)
   - ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3498DB?logo=python&logoColor=white)
 
 - 📚 **Education**:
-  - **Bachelor's in Computer Science**
   - **Master of Science**
+  - **Bachelor's in Computer Science**
 
 - 💼 **Current Projects**:
+  - Developing a **Food Order Platform** 🍔 [Foodalix](https://foodalix.com)
   - Building a plateform for inter-agency money transfer 💶
-  - Developing a **Food Order Platform** 🍔
   - Working on an **IoT Project** with ESP32, GPS & GPRS 📡
 
 - 🛠️ **Tools & Platforms**:
@@ -35,6 +36,7 @@ Hello! I'm Ibrahima Barry 👨‍💻, a passionate developer with a focus on we
 
 - 📫 **How to reach me**:
   - ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white): [ibarry8639@gmail.com](mailto:ibarry8639@gmail.com)
+  - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white): [ibrahima-barry-a7622910a](https://www.linkedin.com/in/ibrahima-barry-a7622910a/)
 
 - ⚡ **Fun Fact**: I am a manga enthusiast 📚 and love watching movies 🎬 in my free time.
 
